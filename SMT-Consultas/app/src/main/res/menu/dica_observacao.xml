@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/dica_app_id"
+        android:icon="@drawable/information"
+        android:iconTintMode="screen"
+        android:orderInCategory="100"
+        android:title="Dica"
+        app:showAsAction="always" />
+</menu>
